@@ -1,2 +1,2 @@
 # sublime
-ZSH Theme
+> A sublime, clean, minimalistic zsh theme.
